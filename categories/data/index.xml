@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data on Hugo Relearn Theme</title>
+    <link>https://goteys.github.io/categories/data/index.html</link>
+    <description>Recent content in data on Hugo Relearn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Feb 2024 14:01:40 +0800</lastBuildDate>
+    <atom:link href="https://goteys.github.io/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grammar</title>
+      <link>https://goteys.github.io/skill/grammar/index.html</link>
+      <pubDate>Sat, 17 Feb 2024 14:01:40 +0800</pubDate>
+      <guid>https://goteys.github.io/skill/grammar/index.html</guid>
+      <description>Hugo &amp;amp; RelearnTheme 使用 创建Blog hugo new site &amp;lt;new_project&amp;gt; 使用 hugo-theme-relearn git submodule add https://github.com/McShelby/hugo-theme-relearn.git themes/hugo-theme-relearn 创建一级章节 hugo new --kind chapter &amp;lt;chapter_title_first&amp;gt;/_index.md 创建二级章节 hugo new &amp;lt;chapter_title_first&amp;gt;/&amp;lt;chapter_title_second&amp;gt;/_index.md 服务测试运行 hugo serve 博客生成 hugo配置 CONFIGURATION BRANDING CUSTOMIZATION FRONTMATTER TOPBAR MODIFICATION ARCHETYPES IMAGE EFFECTS MENU EXTRA SHORTCUTS MULTILINGUAL AND I18N TAXONOMY ATTACHMENTS HIGHLIGHT MATH MERMAID OPENAPI SITEPARAM 跳转 标题没有索引 标题自定义索引 跳转页面 跳转本地标题 跳转其他页面标题 文本链接
+It&amp;rsquo;s a head portrait
+Dump picture Uri Download variant Reset variant</description>
+    </item>
+  </channel>
+</rss>

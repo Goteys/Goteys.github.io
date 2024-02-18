@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Child 1 on Hugo Relearn Theme</title>
+    <link>https://goteys.github.io/skill/grammar/child-1/index.html</link>
+    <description>Recent content in Child 1 on Hugo Relearn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Feb 2024 17:10:13 +0800</lastBuildDate>
+    <atom:link href="https://goteys.github.io/skill/grammar/child-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Child 1 1</title>
+      <link>https://goteys.github.io/skill/grammar/child-1/child-1-1/index.html</link>
+      <pubDate>Sat, 17 Feb 2024 17:12:28 +0800</pubDate>
+      <guid>https://goteys.github.io/skill/grammar/child-1/child-1-1/index.html</guid>
+      <description>child-1-1
+child-1-1
+child-1-1
+h1 h2 </description>
+    </item>
+  </channel>
+</rss>
