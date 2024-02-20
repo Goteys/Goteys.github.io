@@ -1,5 +1,21 @@
 var relearn_search_index = [
   {
+    "breadcrumb": "Toolkit \u003e Git",
+    "content": "\r",
+    "description": "",
+    "tags": null,
+    "title": "Blog",
+    "uri": "/toolkit/git/blog/index.html"
+  },
+  {
+    "breadcrumb": "Toolkit",
+    "content": "Git 相关\n",
+    "description": "",
+    "tags": null,
+    "title": "Git",
+    "uri": "/toolkit/git/index.html"
+  },
+  {
     "breadcrumb": "",
     "content": "Blog 的使用技巧\n",
     "description": "",
@@ -32,6 +48,14 @@ var relearn_search_index = [
     ],
     "title": "Grammar",
     "uri": "/skill/grammar/index.html"
+  },
+  {
+    "breadcrumb": "",
+    "content": "工具系列\n",
+    "description": "",
+    "tags": null,
+    "title": "Toolkit",
+    "uri": "/toolkit/index.html"
   },
   {
     "breadcrumb": "Skill \u003e Grammar \u003e Child 0",

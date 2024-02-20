@@ -6,7 +6,7 @@
     <description>Recent content in Lrain&#39;s Blog on Hugo Relearn Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Feb 2024 17:23:24 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 21:04:48 +0800</lastBuildDate>
     <atom:link href="https://goteys.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skill</title>
@@ -14,6 +14,13 @@
       <pubDate>Sat, 17 Feb 2024 17:23:24 +0800</pubDate>
       <guid>https://goteys.github.io/skill/index.html</guid>
       <description>Blog 的使用技巧</description>
+    </item>
+    <item>
+      <title>Toolkit</title>
+      <link>https://goteys.github.io/toolkit/index.html</link>
+      <pubDate>Tue, 20 Feb 2024 21:04:48 +0800</pubDate>
+      <guid>https://goteys.github.io/toolkit/index.html</guid>
+      <description>工具系列</description>
     </item>
   </channel>
 </rss>
